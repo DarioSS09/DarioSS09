@@ -1,7 +1,8 @@
-<h1 align="center">¡Hola! 👋 Soy Rubén Darío Sossa Sánchez</h1>
+<h1 align="center">Soy Rubén Darío Sossa Sánchez</h1>
 
 <h3 align="center">
-Ingeniero en Informática | Licenciado en Administración de Empresas
+Ingeniero en Informática <br>
+Licenciado en Administración de Empresas
 </h3>
 
 <p align="center">
